@@ -72,8 +72,4 @@ Designed for performance and extensibility, Zecure demonstrates how modern antiv
 
 ### 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/zaidbyte/Zecure/releases/tag/v1.0.0
-python zecure.py
+#### Go to [Releases](https://github.com/zaidbyte/Zecure/releases)
